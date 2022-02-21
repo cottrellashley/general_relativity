@@ -1,5 +1,7 @@
 # general_relativity
 
+(Note: All code was thought of and written by myself, as a self-learning project in python.)
+
 In the General Relativity foulder, you will find:
 
 1. Library: A class of widely used tensors, pre-defined for anyone who wished to use them. All arguments must be SymPy sympy.symbol objects.
