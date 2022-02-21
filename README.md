@@ -10,4 +10,4 @@ I am constantly updating this by adding new tensors each day/week.
 2. Objects: A class of the most important Tensors and Functions in General Relativity, all of which can be calculated from the Metric Tensor.
 
 3. Tensors: This is a class which is more of a function like object. It's argument takes in two tensors in the form of sympy.array objects,
-and performs tensor summating of indices in the order as per satted in the argument.
+and performs tensor product by performing einstein summation convention of indices in the order satted in the argument.
